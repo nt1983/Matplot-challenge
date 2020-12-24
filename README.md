@@ -1,4 +1,3 @@
-# Matplot-challenge
 # Analyse Summary
 
 Two best drugs are Capomulin and Ceftamin.
